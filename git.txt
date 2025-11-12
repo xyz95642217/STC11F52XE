@@ -1,0 +1,2 @@
+git push 本地数据推送到github上面
+git pull 从github上面拉数据下来
